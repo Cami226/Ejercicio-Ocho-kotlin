@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.bootcamp.ejercicioochokotlin"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.bootcamp.ejercicioochokotlin"
